@@ -21,6 +21,12 @@ A simple project at the beginning of 2020-2021 school year. Source file [here](h
 
 
 #### Etch A Sketch
-Another simple project with keys. source file [here](https://github.com/Stackson/CompProgram1-20-21/tree/gh-pages/SRC/EtchaSketch).
+Another simple project with keys. Source file [here](https://github.com/Stackson/CompProgram1-20-21/tree/gh-pages/SRC/EtchaSketch).
 
-![Etch A Sketch](https://github.com/Stackson/CompProgram1-20-21/blob/gh-pages/images/EtchASketch.png)
+![Etch A Sketch](https://github.com/Stackson/CompProgram1-20-21/blob/gh-pages/images/EtchASketch.png?raw=true)
+
+
+#### Number Guessing Game
+A fun game that doesn't require any skill to win. Source file [here]().
+
+![Number Guessing Game]()
