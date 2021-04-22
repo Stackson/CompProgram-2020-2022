@@ -18,3 +18,9 @@ Second largest project of 2020. OOP project with calculating processes. Source f
 A simple project at the beginning of 2020-2021 school year. Source file [here](https://github.com/Stackson/CompProgram1-20-21/tree/gh-pages/SRC/ScreenSaver).
 
 ![Screen Saver](https://github.com/Stackson/CompProgram1-20-21/blob/gh-pages/images/ScreenSaver.png)
+
+
+#### Etch A Sketch
+Another simple project with keys. source file [here](https://github.com/Stackson/CompProgram1-20-21/tree/gh-pages/SRC/EtchaSketch).
+
+![Etch A Sketch](https://github.com/Stackson/CompProgram1-20-21/blob/gh-pages/images/EtchASketch.png)
