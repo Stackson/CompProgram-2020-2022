@@ -12,3 +12,9 @@ Final and Biggest Processing Project of 2020! OOP project for interactive game. 
 Second largest project of 2020. OOP project with calculating processes. Source fle [here](https://github.com/Stackson/CompProgram1-20-21/tree/gh-pages/SRC/Calculator).
 
 ![Calculator](https://github.com/Stackson/CompProgram1-20-21/blob/gh-pages/images/Calculator.png)
+
+
+#### Screen Saver
+A simple project at the beginning of 2020-2021 school year. Source file [here](https://github.com/Stackson/CompProgram1-20-21/tree/gh-pages/SRC/ScreenSaver).
+
+![Screen Saver](https://github.com/Stackson/CompProgram1-20-21/blob/gh-pages/images/ScreenSaver.png)
